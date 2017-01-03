@@ -1,0 +1,8 @@
+:root {
+  --navbar-bg-color: black;
+  --navbar-font-color: white;
+
+  --font-size-small: 12px;
+  --font-size-medium: 22px;
+  --font-size-large: 28px;
+}
